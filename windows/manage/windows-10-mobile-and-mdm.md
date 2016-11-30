@@ -674,6 +674,11 @@ Microsoft has streamlined the Windows product engineering and release cycle so n
 <td align="left">1607</td>	      
 <td align="left">July 2016</td>
 </tr>
+<tr class="odd">
+<td align="left">Current Branch for Business</td>
+<td align="left">1607</td>	      
+<td align="left">November 2016</td>
+</tr>
 </tbody>
 </table>
 
